@@ -17,5 +17,3 @@ During the conversion process:
 - Optional schema `"TSQL2012"` is used to preserve logical structure.
 
 
-
-
