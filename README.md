@@ -18,5 +18,4 @@ During the conversion process:
 
 ---
 
-## 🗂️ Repository Structure
 
